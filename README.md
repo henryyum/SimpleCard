@@ -1,4 +1,4 @@
-# cdQ9drUE
+# Figma Practice - Creating a Simple Card
 
 Quick start:
 
